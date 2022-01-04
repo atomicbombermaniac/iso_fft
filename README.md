@@ -7,4 +7,4 @@ Rendering the results in isometric form, thanks to this tutorial https://medium.
 This was made for fun. Feel free to change anything and use in any legal way.
 Sorry for the garbage code.
 
-![Video attempt](https://github.com/atomicbombermaniac/iso_fft/blob/main/iso_fft_demo.webm?raw=true)
+[![Video attempt](https://github.com/atomicbombermaniac/iso_fft/blob/main/iso_fft_preview.png?raw=true)](https://github.com/atomicbombermaniac/iso_fft/blob/main/iso_fft_demo.webm?raw=true)
