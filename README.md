@@ -5,4 +5,4 @@ Processing using kiss_fft (https://github.com/mborgerding/kissfft).
 Rendering the results in isometric form, thanks to this tutorial https://medium.com/@fredhii/rising-the-ground-64957937513b .
 
 This was made for fun. Feel free to change anything and use in any legal way.
-
+Sorry for the garbage code.
